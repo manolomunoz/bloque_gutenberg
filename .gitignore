@@ -1,0 +1,8 @@
+# ------------- WORDPRESS -------------- #
+languages/
+themes/
+upgrade/
+uploads/
+index.php
+plugins/*
+!mmr-stripe-form/
