@@ -1,0 +1,9 @@
+{
+	"required": {
+		"stripe/stripe-php": "^6.31",
+		"cartalyst/stripe": "~2.0"
+	},
+	"require": {
+		"stripe/stripe-php": "^7.87"
+	}
+}
